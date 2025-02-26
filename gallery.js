@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "차주현 ♥ 조은해의 모바일 청첩장",
         description: "2025년 5월 3일 토요일♡",
-        imageUrl: "https://i.imgur.com/TDDURhE.png",
+        imageUrl: "https://i.imgur.com/c6CfXSy.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
